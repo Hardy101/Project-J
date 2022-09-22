@@ -1,0 +1,13 @@
+/* ===== ROOT PROPERTIES ===== */
+:root {
+  --translate: -50%, -50%;
+  --dangrek: "Dangrek", cursive;
+  --jost: "Jost", sans-serif;
+  --primary-dark: #182747;
+  --weight-normal: normal;
+  --rajdhani: 'Rajdhani', sans-serif;
+}
+/* ==== CLASSES ===== */
+.bg-light {
+  background: whitesmoke;
+}
